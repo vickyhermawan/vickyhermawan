@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Fellas! 👋
 Hi! I am a workaholic person, who interest in Front-end Development, Web Design, Branding, Marketing, and Layout Design. Learn about technology professional in Diploma focused in Computer and System Information from Universitas Gadjah Mada (UGM). 
 
 🔭 I’m currently working Freelancer as Frontend or Backend <br/>
