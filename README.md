@@ -14,3 +14,5 @@
 <h3 align="center">Github Stats</h3>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vickyhermawan&show_icons=true"></div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vickyhermawan)
